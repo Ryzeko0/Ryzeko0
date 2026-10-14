@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ewen Beylier
 
-<!--
-**Ryzeko0/Ryzeko0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student in a Bachelor's degree in AI Development and Data Analysis at UCO (Université Catholique de l'Ouest), preparing a transition towards a **mathematics and computer science** curriculum.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Algorithmics**: solving the France-IOI exercises in Python, chapter by chapter.
+- **Mathematics**: self-studying the high school advanced mathematics curriculum, with Python projects illustrating each concept.
+- **Data analysis**: coursework projects from my Bachelor's degree.
+
+## Tools
+
+Python, SQL, Excel, Git
